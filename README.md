@@ -1,25 +1,39 @@
-- 👋 Hi, I’m @NdipEstaban. A am doing undergraduate studies in software engineering
-at the University Institute of the Gulf of Guinea. I like programming
-and keep on improving my skills everyday so as to become a proficient web developer
-In the future.
+![An illustration for about Ndip Estaban](https://media.licdn.com/dms/image/D4E16AQGFwySvM2UMWA/profile-displaybackgroundimage-shrink_350_1400/0/1692626169480?e=1716422400&v=beta&t=ae-ztLltHKV1cyngpAtR3-aMsfo0gJw1p6Ez2pmPjIw)
 
-- 👀 I’m interested in frontend web development projects as this will help level up my skill.
-I have not had the opportunity to work on a real life project yet but I am open to new
-experiences.
+# Hello Github Community! 👋
 
-- 🌱 I’m currently learning JavaScript and it's frontend library React.js and with time 
-I will also like to learn react native or kotlin for mobile development.
+I am Ndip Estaban a full stack developer who combines creativity and clean code to create innovative and effective software solutions. I am currently pursuing a Computer Software engineering degree at IUG under the university of Bamenda, Cameroon. I consider myself as a smart worker and determined team player. I work with an NGO to provide software products required for their activities ranging from static websites to blogging websites to full stack web applications. I equally collaborate on interesting freelance projects whenever I have the opportunity.
 
-- 💞️ I’m looking to collaborate on a frontend development project of any type especially 
-short term projects
+During my free time I improve my skills through side projects, coding exercises and online certifications. Whenever I have valuable experience to share, I do so through LinkedIn aricles and posts.
 
-- 📫 How to reach me.
-Email: estabannd@gmail.com
-Twitter:https://twitter.com/NdipEstaban?t=A6gOznk9wJMjxrOqY2N9lA&s=09
-Instagram:https://www.instagram.com/estaban_nd/
-LinkedIn :https://www.linkedin.com/in/estaban-ndip-2a5959220
+### 😄 Pronouns
+He/Him
 
-<!---
-NdipEstaban/NdipEstaban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠 &nbsp;Tech Tools and Knowledge base
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
+### 👯 My other interests
+I like studying UI/UX development and reading enterpreneurial books and equally watching "Diary of a CEO" on youtube.
+
+### 📫 How to reach me?
+I am open for collaboration on freelance or open source projects. If you would like to discuss these things, you can join me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/ndip-estaban/) You can also ask me anything (within reason).
+
