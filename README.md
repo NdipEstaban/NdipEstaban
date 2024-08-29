@@ -1,4 +1,4 @@
-![An illustration for about Ndip Estaban](https://media.licdn.com/dms/image/D4E16AQGFwySvM2UMWA/profile-displaybackgroundimage-shrink_350_1400/0/1692626169480?e=1723075200&v=beta&t=Nqk6HtGN--EJYMcBwmbTyWUBBHA7fI7j8njC-846yQE)
+![An illustration for about Ndip Estaban](https://media.licdn.com/dms/image/v2/D4E16AQE8scN18R3uNQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722526558641?e=1730332800&v=beta&t=ywOjgm8tSVWr31xEZo2pfQQVpDcX2BlsnUveuEhSauQ)
 
 # Hello Github Community! 👋
 
