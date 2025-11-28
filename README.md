@@ -2,7 +2,7 @@
 
 # Hello Github Community! 👋
 
-I am Ndip Estaban a full stack developer who combines creativity and clean code to create innovative and effective software solutions. I recently obtained my bachelor of technology in Software engineering at IUG under the university of Bamenda, Cameroon. I consider myself as a smart worker and determined team player. I work with an NGO to provide software products required for their activities ranging from static websites to blogging websites to full stack web applications. I equally collaborate on interesting freelance projects whenever I have the opportunity.
+I am Ndip Estaban a full stack developer who combines creativity and clean code to create innovative and effective software solutions. I recently obtained my bachelor of technology in Software engineering at IUG under the university of Bamenda, Cameroon. I consider myself as a smart worker and determined team player. I have worked on several software products using modern technologies ranging from Nextjs for frontend to Langchain.js and N8N for AI integration and automations. 
 
 During my free time I improve my skills through side projects, coding exercises and online certifications. Whenever I have valuable experience to share, I do so through LinkedIn aricles and posts.
 
